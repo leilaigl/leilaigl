@@ -1,4 +1,4 @@
-## Hi! 👋
+## I'm Leila, nice to meet you! 👋
 Currently approaching my junior year of college, I am constantly seeking opportunities that allow me to fulfill my passion and enhance my knowledge in the IT field. I am an optimistic person who enjoys problem-solving and collaboration, and I am always eager and persistent in learning new things.
 
 ### 🌱 Find me on...
