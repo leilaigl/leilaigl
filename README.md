@@ -8,6 +8,8 @@ Currently approaching my junior year of college, I am constantly seeking opportu
 
 ### 💾 Technologies
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leilaigl&hide=TeX&layout=compact)
+
 #### Languages
 
 ![C++](https://img.shields.io/badge/-C++-00599c?style=flat-square&logo=c)
@@ -26,6 +28,3 @@ Currently approaching my junior year of college, I am constantly seeking opportu
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=Vuetify)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leilaigl&hide=TeX&layout=compact)
