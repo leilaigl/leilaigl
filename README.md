@@ -1,5 +1,5 @@
 ## 👋 Nice to meet you!
-Currently approaching my junior year of college, I am constantly seeking opportunities that allow me to fulfill my passion and enhance my knowledge in the IT field. I am an optimistic person who enjoys problem-solving and collaboration, and I am always eager and persistent in learning new things.
+Currently in my junior year of college, I am constantly seeking opportunities that allow me to fulfill my passion and enhance my knowledge in the IT field. I am an optimistic person who enjoys problem-solving and collaboration, and I am always eager and persistent in learning new things.
 
 ### 🌱 Find me on...
 [![Linkedin Badge](https://img.shields.io/badge/-leilasigles-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leilasigles/)](https://www.linkedin.com/in/leilasigles/)
@@ -24,6 +24,7 @@ Currently approaching my junior year of college, I am constantly seeking opportu
 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=Ionic&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=React&logoColor=black)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
