@@ -11,7 +11,7 @@ Currently in my junior year of college, I am constantly seeking opportunities th
 ### 💾 Technologies
 
 ![](https://github-readme-stats.vercel.app/api?username=leilaigl&hide=stars,issues&card_width=400&theme=transparent&custom_title=Stats&count_private=true&show_icons=true&line_height=30)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leilaigl&layout=compact&card_width=350&theme=transparent&custom_title=Languages&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leilaigl&layout=compact&card_width=387&theme=transparent&custom_title=Languages&count_private=true&show_icons=true)
 
 #### Languages
 
