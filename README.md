@@ -1,7 +1,7 @@
 ## 🌱 Nice to meet you!
 ![](https://i.pinimg.com/originals/44/df/43/44df43c9d956bc574a44705099d2a69c.gif)  
-  
-Currently in my junior year of college, I am constantly seeking opportunities that allow me to fulfill my passion and enhance my knowledge in the IT field. I am an optimistic person who enjoys problem-solving and collaboration, and I am always eager and persistent in learning new things.
+
+As a fresh graduate, I am constantly seeking opportunities that allow me to fulfill my passion and enhance my knowledge in the IT field. I am an optimistic person who enjoys problem-solving and collaboration, and I am always eager and persistent in learning new things.
 
 ### 🔎 Find me on...
 [![Linkedin Badge](https://img.shields.io/badge/-leilasigles-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leilasigles/)](https://www.linkedin.com/in/leilasigles/)
